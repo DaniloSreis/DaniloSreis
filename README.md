@@ -1,4 +1,5 @@
 ## Oi! Eu sou o Danilo 
+Estou iniciando na area da programação web até o momento tenho o conhecimento básico em JavaScript, CSS e HTML.
 <div>
   <a href="https://github.com/DaniloSreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloSreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
