@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DaniloSreis/b309e7609433de477b494ccbf4ff342d/raw/094550906c124f464264bc3a0756ad915449177f/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DaniloSreis/b309e7609433de477b494ccbf4ff342d/raw/b5a60efaeecb4bd3e073585f3974077b82eff726/githubcard.svg"/>
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Danilo santos</h1>
 
 - Conhecimento básico em HTML, CSS e JavaScript.
