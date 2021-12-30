@@ -1,4 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DaniloSreis/b309e7609433de477b494ccbf4ff342d/raw/862775dd58e678fac9368b5d65783077ab9ee48c/githubcard.svg"/>
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/DaniloSreis/b309e7609433de477b494ccbf4ff342d/raw/862775dd58e678fac9368b5d65783077ab9ee48c/githubcard.svg"/>
+
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Danilo santos</h1>
 
 - Conhecimento básico em HTML, CSS e JavaScript.
@@ -19,9 +20,6 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<br>
-
 <div>
   <a href="https://github.com/DaniloSreis">
   <img height="176em" src="https://github-readme-stats.vercel.app/api?username=DaniloSreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
