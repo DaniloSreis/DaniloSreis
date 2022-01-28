@@ -6,7 +6,7 @@
 
 - Atualmente estudando React.js
 
-## Objitivos
+## objetivos
  - Conseguir um emprego
  - Aprender inglês
  - Morar fora do Brasil
