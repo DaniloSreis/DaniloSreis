@@ -8,10 +8,10 @@
 
 Por que escolhi programação ?
 <br><br>
-Com a programação consigo fazer várias coisa como sites/aplicativos para automatizar alguma tarefas, criar seus jogos, sempre ter novas coisa para estudar e nunca ficar parado,
+Com a programação consigo fazer várias coisa como sites/aplicativos para automatizar alguma tarefa, criar jogos, sempre ter novas coisas para estudar e nunca ficar parado,
 a programação me deu isso.
 <br>
-Nunca gostei de ficar parado ou ficar fazer a mesma coisa, mas com a programação tenho sempre algo novo para aprender por isso gosto tando :)
+Nunca gostei de ficar parado ou de fazer a mesma coisa sempre, mas com a programação tenho sempre algo novo para aprender por isso gosto tando :)
 
 
 <br><br>
