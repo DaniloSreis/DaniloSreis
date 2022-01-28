@@ -2,11 +2,18 @@
 
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Danilo santos</h1>
 
-- Conhecimento básico em HTML, CSS e JavaScript.
+- Conhecimento em HTML, CSS e JavaScript.
 
-- Boa comunicação
+- Atualmente estudando React.js
 
-- Atualmente estou estudando JS.
+- Obejitivos
+ - Conseguir um emprego
+ - Aprender inglês
+ - Morar fora do Brasil
+ - 
+## sobre mim
+ - Conheci programação atraves do canal Republica coisa nerd fazendo um anúncio da alura.
+ - Gosto de ler, basquete, natação e de jogos.
 
 <br><br>
 
