@@ -6,7 +6,7 @@
 
 - Atualmente estudando React.js
 
-## Obejitivos
+## Objitivos
  - Conseguir um emprego
  - Aprender inglês
  - Morar fora do Brasil
