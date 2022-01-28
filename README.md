@@ -2,9 +2,9 @@
 
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Danilo santos</h1>
 
-- Conhecimento em HTML, CSS e JavaScript.
+💻 Tecnologias que eu utilizo: **HTML**, **CSS** e **JS**
 
-- Atualmente estudando React.js
+🎯 Tenho estudando: React.js
 
 ## objetivos
  - Conseguir um emprego
