@@ -6,11 +6,11 @@
 
 - Atualmente estudando React.js
 
-- Obejitivos
+## Obejitivos
  - Conseguir um emprego
  - Aprender inglês
  - Morar fora do Brasil
- - 
+ 
 ## sobre mim
  - Conheci programação atraves do canal Republica coisa nerd fazendo um anúncio da alura.
  - Gosto de ler, basquete, natação e de jogos.
