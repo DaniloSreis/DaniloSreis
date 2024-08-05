@@ -4,7 +4,7 @@
 
 💻 Tecnologias que eu utilizo: **HTML**, **CSS** e **JS**
 
-🎯 Tenho estudando: React.js
+🎯 Estou estudando: React.js
 
 Por que escolhi programação ?
 <br><br>
