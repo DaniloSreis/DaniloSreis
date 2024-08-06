@@ -1,6 +1,6 @@
-<img align="right" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Oi, Eu sou o Danilo Santos</h1>
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Oi, Eu sou o Danilo santos</h1>
+<img align="right" height="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 
 💻 Tecnologias que eu utilizo: **HTML**, **CSS** e **JS**
 
