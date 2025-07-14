@@ -1,9 +1,13 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Oi, Eu sou o Danilo</h1>
 
 
-### O que eu faço
+### Sobre mim
 
-Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec com foco no desenvolvimento.
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Diadema
+
+- 🧠 Resolvo desafios lógicos e de CSS, participando ativamente de plataformas como Beecrowd e CSSBattle
+
+- 🌍 Curioso por culturas e idiomas, gosto de conversar com pessoas de outros países e trocar experiências
 
 ## Tecnologias Web 
 - JavaScript
