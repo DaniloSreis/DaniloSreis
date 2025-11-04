@@ -13,6 +13,7 @@
 - JavaScript
 - HTML
 - CSS
+- Figma
 
 ## ⚙️ &nbsp;GitHub Stats
 <div>
